@@ -111,5 +111,7 @@ Guessed letters: a, e
 
 ## project Info
 Internship: CodeAlpha – Python Programming
+
 Task: create a simple Hangman Game
+
 Developer: Bhoomika D A
