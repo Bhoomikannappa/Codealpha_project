@@ -28,7 +28,10 @@ A simple yet engaging rule-based chatbot built with Python that demonstrates nat
 
 ```markdown
 ## 🚀 Quick Start
-```bash
+cd codealpha_tasks/chatbot
 python chatbot.py
 
+
+
 ##try this commands
+
