@@ -19,8 +19,9 @@ Prefect for learning chatbot basics.
 ## Quick Start
 ```bash
 python chatbot.py
+```bash
 
-### Try these commands
+## Try these commands
   - hello/hi/hey  (greet the boot)
   - my name is [your name]  (tell your name)
   - what's the date?  (get current date)
@@ -30,7 +31,7 @@ python chatbot.py
   - help  (see all commands)
   - bye  (Exit chat)
 
-### Example :
+## Example :
    🤖 ChattyBhoo: Hi! I'm ChattyBhoo!
   You: hello
   🤖 ChattyBhoo: Hello there! 😊
