@@ -64,7 +64,8 @@ Case-insensitive (A = a)
 Prevents duplicate guesses
 Validates alphabetical characters only
 
-🏗️ Code Structure
+#### 🏗️ Code Structure
+```bash
 python
 hangman_game()           # Main game function
 ├── python_libraries     # Dictionary of words and clues
@@ -76,8 +77,10 @@ hangman_game()           # Main game function
 │   ├── Win/lose check  # Determine game outcome
 │   └── Display update  # Show current game state
 └── Replay system       # Ask to play again
-📝 Example Game Session
-text
+```
+
+#### 📝 Example Game Session
+```markdown
 ==================================================
 Welcome to Hangman Game!
 ==================================================
@@ -98,6 +101,7 @@ Lives remaining: 5
 Word: _ a _ _ _ _
 Guessed letters: a, e
 ... (game continues)
+```
 
 ## Future Improvement
 - Add more Libraries
