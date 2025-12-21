@@ -22,7 +22,7 @@ def show_help():
 │   • Greetings and chat              │
 │   • Tell time & date                │
 │   • Remember your name              │
-│   • Simple conversations            │
+│   • Simple conversations            |
 │                                     │
 │   Try asking:                       │
 │   • What can you do?                │
@@ -56,15 +56,14 @@ while True:
         print(f"🤖 {bot_name}: {get_response('how_are_you')}")
         print(f"   How about you")
 
-    elif  "good"in user_input or "great" in user_input or "awesome" in user_input:
-        print(f"🤖 {bot_name}: {get_response('good_mood')}")
-        if "sad" in user_input or "bad" in user_input:
-            print("   Hope you feel better soon! 💝")
+    elif  "good" in user_input or "great" in user_input or "awesome" in user_input:
+        print(f"🤖 {bot_name}: that's great to hear")
     
     # User is feeling down
     elif "sad" in user_input or "bad" in user_input or "angry" in user_input:
         print(f"🤖 {bot_name}: Oh, I'm sorry to hear that. 😔")
         print("   Would you like to talk about it? Or I can tell you a joke! 😊")
+            
     # About the bot
     elif any(phrase in user_input for phrase in ["who are you", "about you", "what are you"]):
         print(f"🤖 {bot_name}: I'm {bot_name}, a friendly chatbot! 🤖")
@@ -124,4 +123,5 @@ while True:
         suggestions = ["Try asking about time or date", "Tell me your name!", "Ask me how I am!"]
         print(f"🤖 {bot_name}: Hmm, I'm not sure about that. 🤔")
         print(f"   💡 Try: '{random.choice(suggestions)}'")
+
         print(f"   Or type 'help' to see what I can do.")
