@@ -26,6 +26,9 @@ A simple yet engaging rule-based chatbot built with Python that demonstrates nat
 ### Prerequisites
 - Python 3.x installed on your system
 
-### Quick Start
+```markdown
+## 🚀 Quick Start
 ```bash
 python chatbot.py
+
+##try this commands
