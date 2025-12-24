@@ -1,19 +1,26 @@
 # CodeAlpha Intership - Final project Portfolio
 
 ## Overview 
-      This portfolio contains three python projects completed during my CodeAlpha intership, demostrating practical skills in game implementation, AI integration, software development and data handling.
+This portfolio contains three python projects completed during my CodeAlpha intership, demostrating practical skills in game implementation, AI integration, software development and data handling.
 
 ## Project Completed
 
 ### 1. Rule- Based Chabot with simple AI Features
-         A simple yrt engaging rule-based chabot that femonstrated natural conversation flow with personality.
-   #### Key Features :
+A simple yet engaging rule-based chabot that femonstrated natural conversation flow with personality.
+   
+#### Key Features :
 
+      - Understands greetings (hi, hello, hey, hola)
+      - Responds to user emotions (happy, sad)
+      - Tells random programming jokes
+      - Provides current time and date
+      - Remembers your name throughout the session
 
+#### Technologies
+Python, random and datetime module
 
-
-
-
+#### Skills Demostrated :
+flow of chatbot working, looping the responds 
 
 
 ### 2. Hangman Game for Python Libraries Implementation
@@ -42,9 +49,11 @@ A comprehensive stock portfolio management system with professional-grade format
       - Professional report generation (PDF/Excel formats)
       - Risk assessment and diversification metrics
 
-Technologies: Python, Pandas, ReportLab
+#### Technologies:
+Python, Pandas, ReportLab
 
-Skills Demonstrated: Financial data processing, report automation
+#### Skills Demonstrated:
+Financial data processing, report automation
 
 
 ## Project Structure
@@ -80,7 +89,8 @@ Chatbot: Integrate with speech recognition and text-to-speech capabilities
 ## 🙏 Acknowledgments
 I would like to express my gratitude to the CodeAlpha team for providing this internship opportunity. The hands-on project experience has significantly enhanced my programming skills and given me valuable insights into real-world software development. The mentorship and constructive feedback throughout the internship have been instrumental in my professional growth.
 
+## About 
 Intern: Bhoomika D A
 Position: Python Development Intern
-Duration: [Start Date] - [End Date]
+Duration: 10th December 2025 - 10th january 2026
 Organization: CodeAlpha
