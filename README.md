@@ -6,7 +6,7 @@ This portfolio contains three python projects completed during my CodeAlpha inte
 ## Project Completed
 
 ### 1. Rule- Based Chabot with simple AI Features
-A simple yet engaging rule-based chabot that femonstrated natural conversation flow with personality.
+A simple yet engaging rule-based chabot that demonstrated natural conversation flow with personality.
    
 #### Key Features :
 
@@ -18,13 +18,12 @@ A simple yet engaging rule-based chabot that femonstrated natural conversation f
 
 #### Technologies
 Python, random and datetime module
-
 #### Skills Demostrated :
 flow of chatbot working, looping the responds 
 
 
 ### 2. Hangman Game for Python Libraries Implementation
-      An interactive educational game designed to teach Python libraries through gameplay.
+An interactive educational game designed to teach Python libraries through gameplay.
 
 #### Key Features:
 
@@ -51,7 +50,6 @@ A comprehensive stock portfolio management system with professional-grade format
 
 #### Technologies:
 Python, Pandas, ReportLab
-
 #### Skills Demonstrated:
 Financial data processing, report automation
 
@@ -80,6 +78,7 @@ codealpha-internship/
 |   └── README.md
 
 ```
+
 ## 📈 Future Enhancements Planned
 
 Stock Tracker: Add predictive analytics using historical data
@@ -91,6 +90,9 @@ I would like to express my gratitude to the CodeAlpha team for providing this in
 
 ## About 
 Intern: Bhoomika D A
+
 Position: Python Development Intern
+
 Duration: 10th December 2025 - 10th january 2026
+
 Organization: CodeAlpha
