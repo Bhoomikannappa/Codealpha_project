@@ -1,6 +1,6 @@
 import random
 
-def hungman_game():
+def hangman_game():
 
     python_libraries = {
         "numpy": "A library for numerical computations in Python.",
@@ -97,4 +97,5 @@ def hungman_game():
                 print("Please enter 'yes' or 'no'.")
 
 if __name__ == "__main__":
-    hungman_game()
+
+    hangman_game()
