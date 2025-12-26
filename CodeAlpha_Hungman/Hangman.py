@@ -36,7 +36,7 @@ def hangman_game():
             
             guess = input("\nEnter a letter: ").lower()
             
-            if guess =='quit':
+            if guess =='quit' or guess == 'exit' :
                 print("Thanks for playing!")
                 return
             
@@ -99,3 +99,4 @@ def hangman_game():
 if __name__ == "__main__":
 
     hangman_game()
+
